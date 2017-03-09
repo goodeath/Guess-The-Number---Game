@@ -1,7 +1,7 @@
 # Guess The Number #
 
-  Summary:
-    1. Introduction
+  Summary:<br/>
+    1. Introduction<br/>
     2. Instructions
    
    <h3> Introduction </h3>
